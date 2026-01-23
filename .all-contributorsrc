@@ -264,7 +264,8 @@
       "profile": "http://www.joshuakgoldberg.com",
       "contributions": [
         "bug",
-        "code"
+        "code",
+        "test"
       ]
     },
     {
@@ -311,6 +312,43 @@
       "contributions": [
         "bug",
         "ideas"
+      ]
+    },
+    {
+      "login": "lwasser",
+      "name": "Leah Wasser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7649194?v=4",
+      "profile": "http://www.leahwasser.com",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "ChrisCarini",
+      "name": "Chris Carini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6374067?v=4",
+      "profile": "https://github.com/ChrisCarini",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ChickenWithACrown",
+      "name": "ChickenWithACrown",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125937747?v=4",
+      "profile": "https://github.com/ChickenWithACrown",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "gerteck",
+      "name": "Ger Teck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111064611?v=4",
+      "profile": "http://changerteck.com",
+      "contributions": [
+        "test",
+        "bug"
       ]
     }
   ],
